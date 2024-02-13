@@ -1,14 +1,11 @@
 import pyautogui
 import chrome
 import keys
-import seleniumroutines
 import times
-import position
 
-#position.show()
 chrome.openChrome()
 times.oneSecond()
-keys.position();
+keys.position()
 # keys.tab()
 # keys.tab()
 # keys.tab()
